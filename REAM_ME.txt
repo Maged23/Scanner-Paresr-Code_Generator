@@ -1,0 +1,6 @@
+1-first change the path of input_string in line 90 to the path of file called 'input_string.txt' 
+
+2-the code contain the Scanner ,Parser and Code Generator all in one file 
+
+3-sequance code start with scanner and the output of scanner is tokens => go as an input to the parser and the parser produce 
+atoms => go as an input to the code generator and produce pseudo-assembly code 
